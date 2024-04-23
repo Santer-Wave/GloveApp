@@ -1,4 +1,4 @@
-#GloveApp
+# GloveApp
 
 This educational project is desktop application based on Java Swing. Created to manipulate with data in MySQL database
 
